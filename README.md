@@ -15,10 +15,6 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
-<p align="center">
-Contact
-  <p align="center">
-  https://www.linkedin.com/in/carloschile
 
 <p align="center">
 Thanks for visiting my repository!
