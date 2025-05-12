@@ -14,6 +14,13 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/CarlosJChileS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosJChileS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJChileS&layout=compact&langs_count=8&theme=react"/>
+</div>
 
 <p align="center">
 Thanks for visiting my repository!
