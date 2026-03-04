@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CarlosJChileS">
-    <img src="https://img.shields.io/badge/GitHub-CarlosJChileS-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/carloschile/">
     <img src="https://img.shields.io/badge/LinkedIn-carloschile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -136,8 +133,6 @@ Full-stack software engineer with comprehensive experience in modern web technol
   - Professional Android mobile application developed in Kotlin following modern architectural patterns.
   - Demonstrates enterprise-grade mobile development: MVVM architecture, UI state management, API integration.
   - Production-ready structure for scalable mobile application development.
-
-- **
 
 
 ---
