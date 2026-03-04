@@ -137,10 +137,7 @@ Full-stack software engineer with comprehensive experience in modern web technol
   - Demonstrates enterprise-grade mobile development: MVVM architecture, UI state management, API integration.
   - Production-ready structure for scalable mobile application development.
 
-- **[Aplicaciones_para_el_cliente_Web](https://github.com/CarlosJChileS/Aplicaciones_para_el_cliente_Web)**
-  - Frontend development fundamentals: collection of client-side web applications using vanilla JavaScript.
-  - HTML5/CSS3/JavaScript best practices, responsive design, and progressive enhancement techniques.
-
+- **
 
 
 ---
