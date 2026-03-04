@@ -141,42 +141,10 @@ Full-stack software engineer with comprehensive experience in modern web technol
   - Frontend development fundamentals: collection of client-side web applications using vanilla JavaScript.
   - HTML5/CSS3/JavaScript best practices, responsive design, and progressive enhancement techniques.
 
-## GitHub Statistics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CarlosJChileS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJChileS&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarlosJChileS&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosJChileS&theme=tokyonight" alt="Profile details" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosJChileS&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarlosJChileS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
-</p>
-
----
-
-<p align="center">
-  <strong>Thank you for visiting my profile. Feel free to explore my repositories and reach out for collaboration opportunities.</strong> 🚀
+  <strong>Thank you for visiting my profile.</strong> 🚀
 </p>
