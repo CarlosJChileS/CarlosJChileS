@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/carloschile/">
     <img src="https://img.shields.io/badge/LinkedIn-carloschile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+  <a href="mailto:carloschilesilva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -17,25 +20,64 @@
 Full-stack software engineer with comprehensive experience in modern web technologies, cloud infrastructure, and AI integration. Specialized in building production-grade systems using React, Node.js, .NET/Blazor, and cloud platforms (AWS, Azure, GCP). Strong background in software architecture, DevOps practices, and data visualization.
 
 **Core Expertise:**
-- **Web Development:** React, TypeScript, Vite, Tailwind CSS | Node.js, Express, ASP.NET, C#, Blazor
-- **Cloud & DevOps:** AWS (EC2, RDS, cloud deployments), Azure, GCP | Docker, Git, GitHub, Vercel
-- **AI & Machine Learning:** TensorFlow.js, OpenCV, MediaPipe machine learning pipelines
+- **Web Development:** React, TypeScript, Next.js, Vite, Tailwind CSS | Node.js, Express, NestJS, ASP.NET, C#, Blazor
+- **Cloud & DevOps:** AWS (EC2, RDS), Azure, GCP (Cloud Run) | Docker, GitHub Actions CI/CD, Vercel
+- **AI & Machine Learning:** TensorFlow.js, OpenCV, MediaPipe, AI agents & document intelligence
 - **Data Visualization:** D3.js, Three.js, Power BI, Excel dashboards, Looker Studio
 - **Mobile Development:** React Native, Kotlin, Java
-- **Databases:** PostgreSQL, MySQL, Supabase
+- **Databases:** PostgreSQL, MySQL, Supabase, Prisma ORM
 
-**Professional Status:** 🌍 Ecuador | 💼 **Open to opportunities**
+**Professional Status:** 🌍 Ecuador | 💼 **Open to opportunities & freelance projects**
+
+## Featured Projects
+
+### 🚀 Production & client-grade systems
+
+- **[learnpro-academy](https://github.com/CarlosJChileS/learnpro-academy)** — Complete online course platform: Stripe subscriptions, admin panel, and a serverless backend of **30 Supabase Edge Functions**. React + TypeScript. *(Live demo included)*
+- **[watchhub-streaming](https://github.com/CarlosJChileS/watchhub-streaming)** — Streaming platform with **2FA (TOTP + backup codes)**, PayPal subscriptions and admin analytics. Playwright E2E + CI.
+- **[exposia](https://github.com/CarlosJChileS/exposia)** — **AI presentation-skills coach**: upload slides, record your talk, get AI feedback on voice clarity and delivery. FastAPI + React.
+- **[etiquetar-app](https://github.com/CarlosJChileS/etiquetar-app)** — Excel → thermal-label printing app with barcode generation and a Windows installer, used in a real retail workflow. Python/Flask.
+- **[prompt-y-reza](https://github.com/CarlosJChileS/prompt-y-reza)** — AI tender-document analysis for construction bidding (Viamatica HackIAthon). *(Live demo)*
+- **[smart-fit-pulse](https://github.com/CarlosJChileS/smart-fit-pulse)** — Churn-risk early-warning PWA for gyms with **explainable scoring** — UTEL × Smart Fit Hackathon 2026.
+
+### 🤖 AI & Computer Vision
+
+- **[digit-recognition-tfjs](https://github.com/CarlosJChileS/digit-recognition-tfjs)** — Handwritten-digit recognition running **entirely in the browser** with TensorFlow.js. *(Live demo)*
+- **[ai-or-real-quiz](https://github.com/CarlosJChileS/ai-or-real-quiz)** — Multiplayer "AI or real?" quiz answered with **hand gestures** — OpenCV + MediaPipe in real time.
+- **[agno-agent-ui](https://github.com/CarlosJChileS/agno-agent-ui)** — AI agent playground: Agno (Python) backend + Next.js chat UI, deployed on Azure.
+
+### 🌐 Web engineering & architecture
+
+- **[clean-architecture-todo-api](https://github.com/CarlosJChileS/clean-architecture-todo-api)** — REST API where the datasource is swappable (Prisma / TypeORM / in-memory) — clean architecture in practice.
+- **[learnpro-microservices](https://github.com/CarlosJChileS/learnpro-microservices)** — Modular api-gateway architecture with Stripe & PayPal, documented with **C4 model + ADRs**.
+- **[coastal-environment-dashboard](https://github.com/CarlosJChileS/coastal-environment-dashboard)** — Environmental monitoring dashboard with a **WCAG accessibility panel**. React + Express + Docker.
+- **[dental-clinic-manager](https://github.com/CarlosJChileS/dental-clinic-manager)** — Clinic management with FullCalendar scheduling and JWT auth. *(Live demo)*
+- **[d3js-interactive-guide](https://github.com/CarlosJChileS/d3js-interactive-guide)** — 14 interactive D3.js data-visualization modules, from basics to advanced charts.
+
+### 📱 Mobile
+
+- **[comerx-android](https://github.com/CarlosJChileS/comerx-android)** — Native Android e-commerce app in **Kotlin** with Supabase backend and device-sensor integrations.
+
+## 🔒 Private Client Work (Freelance)
+
+Selected private engagements — available to discuss in interviews:
+
+- **Legal CRM** — full practice-management system for a law firm (clients, cases, finances, internal chat). React 19, clean architecture, E2E-tested.
+- **Legal practice suite** — NestJS + Angular + Prisma monorepo for case files, billing and sales proformas.
+- **Offline-first finance PWA** — expense tracking with receipt photos, PDF/Excel reports and background sync. Next.js 16 + Supabase.
+- **WooCommerce ↔ Contífico ERP sync** — automated prices, per-warehouse stock and Ecuador e-invoicing for a live store.
+- **Legal data aggregation API** — Playwright-orchestrated public-registry lookups with PostgreSQL caching.
 
 ## Tech stack
 
 <p><b>Frontend</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css" alt="Frontend Stack" />
 </p>
 
 <p><b>Backend & Data</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs,dotnet,kotlin,mysql,postgres,supabase" alt="Backend and Data Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java,cs,dotnet,kotlin,mysql,postgres,supabase,prisma" alt="Backend and Data Stack" />
 </p>
 
 <p><b>.NET Web UI</b></p>
@@ -49,94 +91,41 @@ Full-stack software engineer with comprehensive experience in modern web technol
   <img src="https://skillicons.dev/icons?i=react,kotlin,java" alt="Mobile Stack" />
 </p>
 
-<p><b>Tools</b></p>
+<p><b>Tools & Cloud</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,azure,gcp,aws" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,azure,gcp,aws" alt="Tools" />
 </p>
 
 <p><b>Specialized technologies</b></p>
 
 - React Router, React Query, shadcn/ui, Radix UI
-- Blazor and MudBlazor (.NET web UI)
-- TensorFlow.js, OpenCV, MediaPipe
-- D3.js, Three.js
-- Power BI, Excel dashboards and reporting
+- TensorFlow.js, OpenCV, MediaPipe — browser & real-time ML
+- D3.js, Three.js — interactive data visualization
+- Power BI, Looker Studio, Excel dashboards
 - Supabase Edge Functions, Stripe / PayPal integrations
-- Cloud deployments: AWS, Microsoft Azure and Google Cloud Platform (GCP)
+- Playwright E2E testing, GitHub Actions CI/CD
+- Cloud deployments: AWS, Azure, Google Cloud Run, Vercel, Render
 
 ## Specialization Areas
 
-### 🤖 Artificial Intelligence & Machine Learning
-- Browser-based inference with TensorFlow.js for real-time predictions
-- Computer vision pipelines using OpenCV and MediaPipe for image/video processing
-- Hybrid AI architectures combining local models with cloud-based APIs
-- ML integration in full-stack applications for intelligent features
+### 🤖 AI & Machine Learning
+Browser-based inference (TensorFlow.js), computer-vision pipelines (OpenCV/MediaPipe), AI agents and document intelligence, hybrid local + cloud AI architectures.
 
 ### 🌐 Full-Stack Web Development
-- **Frontend:** React, TypeScript, Vite, Tailwind CSS, modern component architecture
-- **Backend:** Node.js, Express.js, ASP.NET Core, C#, Blazor
-- **Database & ORM:** PostgreSQL, MySQL, Supabase with advanced query optimization
-- **Visualization:** D3.js, Three.js for data-driven interactive interfaces
-- Advanced integration patterns: authentication, authorization, real-time updates
+React/Next.js/TypeScript frontends · Node.js/NestJS/ASP.NET backends · clean architecture & microservices · PostgreSQL/Supabase with Prisma · auth, payments and real-time features.
 
-### 📊 Data Visualization & Business Intelligence
-- Interactive dashboards with Power BI, Looker Studio, and Excel for KPI tracking
-- Web-based analytics using D3.js and Three.js for complex data storytelling
-- Custom reporting solutions and data visualization for enterprise metrics
-- Specialized in transforming raw data into actionable insights
+### 📊 Data Visualization & BI
+Interactive dashboards (Power BI, Looker Studio), web analytics with D3.js/Three.js, custom enterprise reporting.
 
 ### 📱 Mobile Development
-- Cross-platform mobile apps with React Native
-- Android-native development with Kotlin and Java
-- Backend integration with REST APIs, authentication flows, and database connectivity
-- Professional app architecture patterns and state management
+React Native cross-platform apps · native Android with Kotlin/Java · REST integration and app architecture.
 
-### 🏢 Enterprise Solutions
-- Experience with C#, .NET, Blazor, and MudBlazor in institutional contexts (ULEAM).
-- Cloud infrastructure expertise: AWS EC2 setup, database configuration, remote deployment
-- Environment: AWS, Microsoft Azure, Google Cloud Platform – hands-on deployment and management
-- Private institutional projects demonstrating enterprise development practices
-
-## Featured Projects
-
-- **[ArquitecturaLearnPro](https://github.com/CarlosJChileS/ArquitecturaLearnPro)**
-  - Full-featured e-learning platform with modern tech stack (React, TypeScript, Vite, Supabase).
-  - Scalable backend with 30+ Supabase Edge Functions handling payments, analytics, notifications, certificates, and admin workflows.
-  - Integrated payment processing (Stripe/PayPal), authentication, role-based access control, and PostgreSQL persistence.
-
-- **[redneu](https://github.com/CarlosJChileS/redneu)**
-  - Production-ready AI application for handwritten digit recognition using computer vision.
-  - Frontend: React + TypeScript + TensorFlow.js | Backend: Node.js + Express with GPU acceleration.
-  - Hybrid inference architecture combining local neural networks with cloud-based API integration (Groq).
-
-- **[odontologia-app-v2](https://github.com/CarlosJChileS/odontologia-app-v2)**
-  - Enterprise healthcare web application with React frontend and Node.js/Express backend.
-  - Security-focused implementation: JWT authentication, role-based routes, PostgreSQL data persistence.
-  - Advanced scheduling features with FullCalendar, designed for medical clinic workflows.
-
-- **[Panel](https://github.com/CarlosJChileS/Panel)**
-  - Environmental monitoring dashboard: real-time weather and air quality tracking.
-  - Tech: React (UI), Express (API), role-based authorization, integrated testing suite, Docker containerization.
-  - Demonstrates practical DevOps knowledge and scalable application architecture.
-
-- **[d3.js-guia](https://github.com/CarlosJChileS/d3.js-guia)**
-  - Comprehensive data visualization reference with 14 interactive modules using D3.js and Three.js.
-  - Advanced chart types: Sankey diagrams, kernel density estimation (KDE), 3D visualizations, custom interactivity.
-  - Structured as reusable learning resource and professional visualization toolkit.
-
-- **[Quizz-opencv-and-mediapipe](https://github.com/CarlosJChileS/Quizz-opencv-and-mediapipe)**
-  - Real-time multi-user educational game leveraging computer vision (Python, OpenCV, MediaPipe).
-  - Gesture-based interaction: face detection, hand pose estimation, dynamic response logic.
-  - Designed for live events with scoring, ranking system, and educational feedback mechanisms.
-
-- **[Comerx](https://github.com/CarlosJChileS/Comerx)**
-  - Professional Android mobile application developed in Kotlin following modern architectural patterns.
-  - Demonstrates enterprise-grade mobile development: MVVM architecture, UI state management, API integration.
-  - Production-ready structure for scalable mobile application development.
-
+### 🏢 Enterprise & Freelance Solutions
+CRMs, ERP integrations, e-invoicing (Ecuador/SRI), PWAs for field use, cloud deployment on AWS/Azure/GCP — delivered end-to-end for real clients.
 
 ---
 
 <p align="center">
+  <em>🇪🇸 Ingeniero de software full-stack en Ecuador — disponible para empleo y proyectos freelance.</em><br/>
   <strong>Thank you for visiting my profile.</strong> 🚀
 </p>
