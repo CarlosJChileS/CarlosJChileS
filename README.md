@@ -33,7 +33,7 @@ Full-stack software engineer with comprehensive experience in modern web technol
 
 ### 🚀 Production & client-grade systems
 
-- **[learnpro-academy](https://github.com/CarlosJChileS/learnpro-academy)** — Complete online course platform: Stripe subscriptions, admin panel, and a serverless backend of **30 Supabase Edge Functions**. React + TypeScript. *(Live demo included)*
+- **[learnpro-academy](https://github.com/CarlosJChileS/learnpro-academy)** — Complete online course platform: Stripe subscriptions, admin panel, and a serverless backend of **30 Supabase Edge Functions**. React + TypeScript.
 - **[watchhub-streaming](https://github.com/CarlosJChileS/watchhub-streaming)** — Streaming platform with **2FA (TOTP + backup codes)**, PayPal subscriptions and admin analytics. Playwright E2E + CI.
 - **[exposia](https://github.com/CarlosJChileS/exposia)** — **AI presentation-skills coach**: upload slides, record your talk, get AI feedback on voice clarity and delivery. FastAPI + React.
 - **[etiquetar-app](https://github.com/CarlosJChileS/etiquetar-app)** — Excel → thermal-label printing app with barcode generation and a Windows installer, used in a real retail workflow. Python/Flask.
@@ -51,7 +51,7 @@ Full-stack software engineer with comprehensive experience in modern web technol
 - **[clean-architecture-todo-api](https://github.com/CarlosJChileS/clean-architecture-todo-api)** — REST API where the datasource is swappable (Prisma / TypeORM / in-memory) — clean architecture in practice.
 - **[learnpro-microservices](https://github.com/CarlosJChileS/learnpro-microservices)** — Modular api-gateway architecture with Stripe & PayPal, documented with **C4 model + ADRs**.
 - **[coastal-environment-dashboard](https://github.com/CarlosJChileS/coastal-environment-dashboard)** — Environmental monitoring dashboard with a **WCAG accessibility panel**. React + Express + Docker.
-- **[dental-clinic-manager](https://github.com/CarlosJChileS/dental-clinic-manager)** — Clinic management with FullCalendar scheduling and JWT auth. *(Live demo)*
+- **[dental-clinic-manager](https://github.com/CarlosJChileS/dental-clinic-manager)** — Clinic management with FullCalendar scheduling and JWT auth.
 - **[d3js-interactive-guide](https://github.com/CarlosJChileS/d3js-interactive-guide)** — 14 interactive D3.js data-visualization modules, from basics to advanced charts.
 
 ### 📱 Mobile
