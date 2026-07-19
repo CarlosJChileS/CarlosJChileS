@@ -22,7 +22,7 @@ Full-stack software engineer building **production systems for real businesses**
 **Core Expertise:**
 - **Frontend:** React 19, Next.js 16 (App Router), TypeScript, Vite, Tailwind CSS 4, Angular, shadcn/ui
 - **Backend:** Node.js, Express, NestJS | Python (FastAPI, Flask) | ASP.NET, C#, Blazor
-- **AI & Machine Learning:** AI agents (LangGraph, Agno), RAG & document intelligence (OCR), TensorFlow.js in-browser inference, OpenCV + MediaPipe real-time vision
+- **AI & Machine Learning:** AI agents (LangGraph, LangChain, Agno, deepagents) with OpenAI & Groq APIs, LangSmith observability | RAG & document intelligence (PyMuPDF, Tesseract OCR) | speech-to-text (Deepgram) | classic ML (scikit-learn, pandas) | TensorFlow.js in-browser inference | OpenCV + MediaPipe real-time vision
 - **PWA & offline-first:** Serwist service workers, Dexie/IndexedDB sync, web-push notifications
 - **Payments & integrations:** Stripe, PayPal, WooCommerce, Contífico ERP, e-invoicing (SRI Ecuador), Playwright web automation
 - **Cloud & DevOps:** Docker, GitHub Actions CI/CD, Vercel, Render, Google Cloud Run, Azure, AWS
@@ -111,12 +111,12 @@ Selected private engagements — available to discuss in interviews:
 
 <p><b>Specialized technologies</b></p>
 
-- **AI agents & RAG:** LangGraph, Agno, OCR + document-intelligence pipelines
-- **ML in production:** TensorFlow.js (in-browser inference), OpenCV, MediaPipe
+- **AI agents & RAG:** LangGraph, LangChain, Agno, deepagents, LangSmith · OpenAI & Groq APIs · evidence-grounded RAG with OCR (PyMuPDF, Tesseract)
+- **ML in production:** scikit-learn + pandas (risk scoring), TensorFlow.js (in-browser inference), OpenCV, MediaPipe, Deepgram speech-to-text
 - **Offline-first PWAs:** Serwist, Dexie (IndexedDB), web-push
 - **Payments & business integrations:** Stripe, PayPal, WooCommerce, Contífico ERP, SRI e-invoicing (Ecuador)
 - **Web automation & scraping:** Playwright orchestration with caching layers
-- **UI engineering:** React Router, React Query, shadcn/ui, Radix UI
+- **UI engineering:** React Router, React Query, Zustand, shadcn/ui, Radix UI, Recharts
 - **Data visualization:** D3.js, Three.js, Power BI, Looker Studio
 - **Quality:** Playwright E2E, Vitest, GitHub Actions CI/CD, SonarLint
 - **Serverless:** Supabase Edge Functions (30+ in production projects)
@@ -125,7 +125,7 @@ Selected private engagements — available to discuss in interviews:
 ## Specialization Areas
 
 ### 🤖 AI & Machine Learning
-Multi-agent systems (LangGraph, Agno) · RAG pipelines with OCR and document intelligence · browser-based inference (TensorFlow.js) · real-time computer vision (OpenCV/MediaPipe) · explainable scoring engines.
+Multi-agent systems (LangGraph, LangChain, Agno, deepagents) with OpenAI/Groq · evidence-grounded RAG with OCR (PyMuPDF, Tesseract) · LangSmith observability · speech-to-text (Deepgram) · fraud/risk scoring with scikit-learn · browser-based inference (TensorFlow.js) · real-time computer vision (OpenCV/MediaPipe).
 
 ### 🌐 Full-Stack Web Development
 React 19 / Next.js 16 / TypeScript frontends · Node.js/NestJS/FastAPI backends · clean architecture & microservices · offline-first PWAs · PostgreSQL/Supabase with Prisma · auth (2FA/TOTP), payments and real-time features.
