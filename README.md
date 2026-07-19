@@ -1,7 +1,7 @@
 <h1 align="center">Carlos Chile</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer | AI & Data Visualization Specialist</strong>
+  <strong>Full-Stack Software Engineer | AI Agents · Computer Vision · Business Systems</strong>
 </p>
 
 <p align="center">
@@ -17,15 +17,19 @@
 
 ## About
 
-Full-stack software engineer with comprehensive experience in modern web technologies, cloud infrastructure, and AI integration. Specialized in building production-grade systems using React, Node.js, .NET/Blazor, and cloud platforms (AWS, Azure, GCP). Strong background in software architecture, DevOps practices, and data visualization.
+Full-stack software engineer building **production systems for real businesses** — legal CRMs, ERP integrations, e-invoicing, offline-first PWAs — and **applied AI**: multi-agent systems, RAG pipelines and real-time computer vision. Strong foundation in clean architecture, E2E testing and CI/CD.
 
 **Core Expertise:**
-- **Web Development:** React, TypeScript, Next.js, Vite, Tailwind CSS | Node.js, Express, NestJS, ASP.NET, C#, Blazor
-- **Cloud & DevOps:** AWS (EC2, RDS), Azure, GCP (Cloud Run) | Docker, GitHub Actions CI/CD, Vercel
-- **AI & Machine Learning:** TensorFlow.js, OpenCV, MediaPipe, AI agents & document intelligence
-- **Data Visualization:** D3.js, Three.js, Power BI, Excel dashboards, Looker Studio
-- **Mobile Development:** React Native, Kotlin, Java
-- **Databases:** PostgreSQL, MySQL, Supabase, Prisma ORM
+- **Frontend:** React 19, Next.js 16 (App Router), TypeScript, Vite, Tailwind CSS 4, Angular, shadcn/ui
+- **Backend:** Node.js, Express, NestJS | Python (FastAPI, Flask) | ASP.NET, C#, Blazor
+- **AI & Machine Learning:** AI agents (LangGraph, Agno), RAG & document intelligence (OCR), TensorFlow.js in-browser inference, OpenCV + MediaPipe real-time vision
+- **PWA & offline-first:** Serwist service workers, Dexie/IndexedDB sync, web-push notifications
+- **Payments & integrations:** Stripe, PayPal, WooCommerce, Contífico ERP, e-invoicing (SRI Ecuador), Playwright web automation
+- **Cloud & DevOps:** Docker, GitHub Actions CI/CD, Vercel, Render, Google Cloud Run, Azure, AWS
+- **Data Visualization:** D3.js, Three.js, Power BI, Looker Studio
+- **Mobile:** Kotlin (native Android), React Native/Expo
+- **Databases:** PostgreSQL, Supabase, Prisma ORM, MySQL, SQLite
+- **Testing:** Playwright E2E, Vitest, Testing Library
 
 **Professional Status:** 🌍 Ecuador | 💼 **Open to opportunities & freelance projects**
 
@@ -81,12 +85,12 @@ Selected private engagements — available to discuss in interviews:
 
 <p><b>Frontend</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,vite,tailwind,html,css" alt="Frontend Stack" />
 </p>
 
 <p><b>Backend & Data</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java,cs,dotnet,kotlin,mysql,postgres,supabase,prisma" alt="Backend and Data Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,flask,java,cs,dotnet,kotlin,postgres,mysql,sqlite,supabase,prisma" alt="Backend and Data Stack" />
 </p>
 
 <p><b>.NET Web UI</b></p>
@@ -107,21 +111,24 @@ Selected private engagements — available to discuss in interviews:
 
 <p><b>Specialized technologies</b></p>
 
-- React Router, React Query, shadcn/ui, Radix UI
-- TensorFlow.js, OpenCV, MediaPipe — browser & real-time ML
-- D3.js, Three.js — interactive data visualization
-- Power BI, Looker Studio, Excel dashboards
-- Supabase Edge Functions, Stripe / PayPal integrations
-- Playwright E2E testing, GitHub Actions CI/CD
-- Cloud deployments: AWS, Azure, Google Cloud Run, Vercel, Render
+- **AI agents & RAG:** LangGraph, Agno, OCR + document-intelligence pipelines
+- **ML in production:** TensorFlow.js (in-browser inference), OpenCV, MediaPipe
+- **Offline-first PWAs:** Serwist, Dexie (IndexedDB), web-push
+- **Payments & business integrations:** Stripe, PayPal, WooCommerce, Contífico ERP, SRI e-invoicing (Ecuador)
+- **Web automation & scraping:** Playwright orchestration with caching layers
+- **UI engineering:** React Router, React Query, shadcn/ui, Radix UI
+- **Data visualization:** D3.js, Three.js, Power BI, Looker Studio
+- **Quality:** Playwright E2E, Vitest, GitHub Actions CI/CD, SonarLint
+- **Serverless:** Supabase Edge Functions (30+ in production projects)
+- **Cloud:** AWS, Azure, Google Cloud Run, Vercel, Render
 
 ## Specialization Areas
 
 ### 🤖 AI & Machine Learning
-Browser-based inference (TensorFlow.js), computer-vision pipelines (OpenCV/MediaPipe), AI agents and document intelligence, hybrid local + cloud AI architectures.
+Multi-agent systems (LangGraph, Agno) · RAG pipelines with OCR and document intelligence · browser-based inference (TensorFlow.js) · real-time computer vision (OpenCV/MediaPipe) · explainable scoring engines.
 
 ### 🌐 Full-Stack Web Development
-React/Next.js/TypeScript frontends · Node.js/NestJS/ASP.NET backends · clean architecture & microservices · PostgreSQL/Supabase with Prisma · auth, payments and real-time features.
+React 19 / Next.js 16 / TypeScript frontends · Node.js/NestJS/FastAPI backends · clean architecture & microservices · offline-first PWAs · PostgreSQL/Supabase with Prisma · auth (2FA/TOTP), payments and real-time features.
 
 ### 📊 Data Visualization & BI
 Interactive dashboards (Power BI, Looker Studio), web analytics with D3.js/Three.js, custom enterprise reporting.
