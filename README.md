@@ -58,6 +58,15 @@ Full-stack software engineer with comprehensive experience in modern web technol
 
 - **[comerx-android](https://github.com/CarlosJChileS/comerx-android)** — Native Android e-commerce app in **Kotlin** with Supabase backend and device-sensor integrations.
 
+### 🤝 Team Collaborations
+
+Projects I contributed to as part of a team:
+
+- **[HACKATON-TAWS (Yapa)](https://github.com/justinz12xd/HACKATON-TAWS)** — 💰 Multi-agent financial assistant over WhatsApp: natural-language expense logging, proactive budget alerts and anti-hallucination RAG support. FastAPI · LangGraph · Supabase · React.
+- **[RastroSeguro](https://github.com/Marcwos/RastroSeguro_hackIAthon)** — Anti-fraud copilot for insurers: prioritizes suspicious claims and explains risk to support human review. HackIAthon 2026 (Aseguradora del Sur challenge). TypeScript.
+- **[ExposiaClean](https://github.com/DweskZ/ExposiaClean)** — AI assistant for oral presentations: PDF analysis, speech transcription and filler-word detection. TypeScript.
+- **[Aristóteles](https://github.com/justinz12xd/Arist-teles)** — Multi-agent decision-support system: analyzes documents (OCR + RAG) and compares alternatives with evidence-backed recommendations. Python.
+
 ## 🔒 Private Client Work (Freelance)
 
 Selected private engagements — available to discuss in interviews:
