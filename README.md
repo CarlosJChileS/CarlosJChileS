@@ -1,147 +1,41 @@
-<h1 align="center">Carlos Chile</h1>
+# Carlos Chile
 
-<p align="center">
-  <strong>Full-Stack Software Engineer | AI Agents · Computer Vision · Business Systems</strong>
-</p>
+**Software Engineering Student | Full-Stack Developer | Applied AI**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carloschile/">
-    <img src="https://img.shields.io/badge/LinkedIn-carloschile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:carloschilesilva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I build reliable web applications and practical AI solutions for real-world workflows. My current focus is enterprise software development with C#/.NET, SQL databases, REST APIs, clean architecture, automated testing and cloud delivery.
 
----
+## Core expertise
 
-## About
+- **Backend:** C#, .NET, ASP.NET Core, Node.js, Express, Python, FastAPI, REST APIs
+- **Architecture:** Clean Architecture, N-Layer Architecture, CQRS, SOLID, separation of concerns
+- **Databases:** SQL Server, PostgreSQL, MySQL, SQLite, Entity Framework Core, Supabase
+- **Frontend:** React, Next.js, Angular, TypeScript, JavaScript, Blazor, HTML, CSS
+- **Testing and quality:** NUnit, pytest, Vitest, Playwright E2E, functional testing, integration testing, code review
+- **DevOps and cloud:** Git, GitHub, Azure DevOps, GitHub Actions, Docker, Azure, Vercel, CI/CD
+- **Applied AI:** RAG, embeddings, NLP, document intelligence, explainable scoring, computer vision and speech analysis
 
-Full-stack software engineer building **production systems for real businesses** — legal CRMs, ERP integrations, e-invoicing, offline-first PWAs — and **applied AI**: multi-agent systems, RAG pipelines and real-time computer vision. Strong foundation in clean architecture, E2E testing and CI/CD.
+## Featured public projects
 
-**Core Expertise:**
-- **Frontend:** React 19, Next.js 16 (App Router), TypeScript, Vite, Tailwind CSS 4, Angular, shadcn/ui
-- **Backend:** Node.js, Express, NestJS | Python (FastAPI, Flask) | ASP.NET, C#, Blazor
-- **AI & Machine Learning:** AI agents (LangGraph, LangChain, Agno, deepagents) with OpenAI & Groq APIs, LangSmith observability | RAG & document intelligence (PyMuPDF, Tesseract OCR) | speech-to-text (Deepgram) | classic ML (scikit-learn, pandas) | TensorFlow.js in-browser inference | OpenCV + MediaPipe real-time vision
-- **PWA & offline-first:** Serwist service workers, Dexie/IndexedDB sync, web-push notifications
-- **Payments & integrations:** Stripe, PayPal, WooCommerce, Contífico ERP, e-invoicing (SRI Ecuador), Playwright web automation
-- **Cloud & DevOps:** Docker, GitHub Actions CI/CD, Vercel, Render, Google Cloud Run, Azure, AWS
-- **Data Visualization:** D3.js, Three.js, Power BI, Looker Studio
-- **Mobile:** Kotlin (native Android), React Native/Expo
-- **Databases:** PostgreSQL, Supabase, Prisma ORM, MySQL, SQLite
-- **Testing:** Playwright E2E, Vitest, Testing Library
+- **[ExposIA](https://github.com/CarlosJChileS/exposia)** - AI presentation coach using FastAPI, React, audio analysis and Docker.
+- **[Smart Fit Pulse](https://github.com/CarlosJChileS/smart-fit-pulse)** - Explainable risk-scoring PWA with prioritized alerts and Playwright E2E tests.
+- **[AI or Real?](https://github.com/CarlosJChileS/ai-or-real-quiz)** - Real-time computer-vision quiz using Python, OpenCV and MediaPipe.
+- **[TaskMate](https://github.com/CarlosJChileS/taskmate)** - REST application with Node.js, Express, PostgreSQL, Docker Compose and Azure CI/CD.
+- **[Clean Architecture Todo API](https://github.com/CarlosJChileS/clean-architecture-todo-api)** - REST API demonstrating clean architecture and interchangeable data sources.
+- **[WatchHub](https://github.com/CarlosJChileS/watchhub-streaming)** - Streaming platform with 2FA, subscriptions, analytics, E2E testing and GitHub Actions.
 
-**Professional Status:** 🌍 Ecuador | 💼 **Open to opportunities & freelance projects**
+## Applied AI and hackathon work
 
-## Featured Projects
+- **RastroSeguro** - HackIAthon finalist project focused on explainable insurance-fraud prioritization, Machine Learning, NLP, graph analysis and human review.
+- **AI tender analysis** - Document-intelligence prototype for extracting requirements and identifying compliance gaps in bidding documents.
 
-### 🚀 Production & client-grade systems
+## Professional interests
 
-- **[learnpro-academy](https://github.com/CarlosJChileS/learnpro-academy)** — Complete online course platform: Stripe subscriptions, admin panel, and a serverless backend of **30 Supabase Edge Functions**. React + TypeScript.
-- **[watchhub-streaming](https://github.com/CarlosJChileS/watchhub-streaming)** — Streaming platform with **2FA (TOTP + backup codes)**, PayPal subscriptions and admin analytics. Playwright E2E + CI.
-- **[exposia](https://github.com/CarlosJChileS/exposia)** — **AI presentation-skills coach**: upload slides, record your talk, get AI feedback on voice clarity and delivery. FastAPI + React.
-- **[etiquetar-app](https://github.com/CarlosJChileS/etiquetar-app)** — Excel → thermal-label printing app with barcode generation and a Windows installer, used in a real retail workflow. Python/Flask.
-- **[prompt-y-reza](https://github.com/CarlosJChileS/prompt-y-reza)** — AI tender-document analysis for construction bidding (Viamatica HackIAthon). *(Live demo)*
-- **[smart-fit-pulse](https://github.com/CarlosJChileS/smart-fit-pulse)** — Churn-risk early-warning PWA for gyms with **explainable scoring** — UTEL × Smart Fit Hackathon 2026.
+Enterprise application development, .NET backend engineering, API design, application support, software quality, data-driven products, AI agents, multimodal systems and business automation.
 
-### 🤖 AI & Computer Vision
+## Contact
 
-- **[digit-recognition-tfjs](https://github.com/CarlosJChileS/digit-recognition-tfjs)** — Handwritten-digit recognition running **entirely in the browser** with TensorFlow.js. *(Live demo)*
-- **[ai-or-real-quiz](https://github.com/CarlosJChileS/ai-or-real-quiz)** — Multiplayer "AI or real?" quiz answered with **hand gestures** — OpenCV + MediaPipe in real time.
-- **[agno-agent-ui](https://github.com/CarlosJChileS/agno-agent-ui)** — AI agent playground: Agno (Python) backend + Next.js chat UI, deployed on Azure.
+- Email: carloschilesilva@gmail.com
+- Location: Manta, Ecuador
+- Open to full-time and part-time remote opportunities.
 
-### 🌐 Web engineering & architecture
-
-- **[clean-architecture-todo-api](https://github.com/CarlosJChileS/clean-architecture-todo-api)** — REST API where the datasource is swappable (Prisma / TypeORM / in-memory) — clean architecture in practice.
-- **[learnpro-microservices](https://github.com/CarlosJChileS/learnpro-microservices)** — Modular api-gateway architecture with Stripe & PayPal, documented with **C4 model + ADRs**.
-- **[coastal-environment-dashboard](https://github.com/CarlosJChileS/coastal-environment-dashboard)** — Environmental monitoring dashboard with a **WCAG accessibility panel**. React + Express + Docker.
-- **[dental-clinic-manager](https://github.com/CarlosJChileS/dental-clinic-manager)** — Clinic management with FullCalendar scheduling and JWT auth.
-- **[d3js-interactive-guide](https://github.com/CarlosJChileS/d3js-interactive-guide)** — 14 interactive D3.js data-visualization modules, from basics to advanced charts.
-
-### 📱 Mobile
-
-- **[comerx-android](https://github.com/CarlosJChileS/comerx-android)** — Native Android e-commerce app in **Kotlin** with Supabase backend and device-sensor integrations.
-
-### 🤝 Team Collaborations
-
-Projects I contributed to as part of a team:
-
-- **[HACKATON-TAWS (Yapa)](https://github.com/justinz12xd/HACKATON-TAWS)** — 💰 Multi-agent financial assistant over WhatsApp: natural-language expense logging, proactive budget alerts and anti-hallucination RAG support. FastAPI · LangGraph · Supabase · React.
-- **[RastroSeguro](https://github.com/Marcwos/RastroSeguro_hackIAthon)** — Anti-fraud copilot for insurers: prioritizes suspicious claims and explains risk to support human review. HackIAthon 2026 (Aseguradora del Sur challenge). TypeScript.
-- **[ExposiaClean](https://github.com/DweskZ/ExposiaClean)** — AI assistant for oral presentations: PDF analysis, speech transcription and filler-word detection. TypeScript.
-- **[Aristóteles](https://github.com/justinz12xd/Arist-teles)** — Multi-agent decision-support system: analyzes documents (OCR + RAG) and compares alternatives with evidence-backed recommendations. Python.
-
-## 🔒 Private Client Work (Freelance)
-
-Selected private engagements — available to discuss in interviews:
-
-- **Legal CRM** — full practice-management system for a law firm (clients, cases, finances, internal chat). React 19, clean architecture, E2E-tested.
-- **Legal practice suite** — NestJS + Angular + Prisma monorepo for case files, billing and sales proformas.
-- **Offline-first finance PWA** — expense tracking with receipt photos, PDF/Excel reports and background sync. Next.js 16 + Supabase.
-- **WooCommerce ↔ Contífico ERP sync** — automated prices, per-warehouse stock and Ecuador e-invoicing for a live store.
-- **Legal data aggregation API** — Playwright-orchestrated public-registry lookups with PostgreSQL caching.
-
-## Tech stack
-
-<p><b>Frontend</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,vite,tailwind,html,css" alt="Frontend Stack" />
-</p>
-
-<p><b>Backend & Data</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,flask,java,cs,dotnet,kotlin,postgres,mysql,sqlite,supabase,prisma" alt="Backend and Data Stack" />
-</p>
-
-<p><b>.NET Web UI</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
-  <img src="https://img.shields.io/badge/MudBlazor-5B3E96?style=for-the-badge" alt="MudBlazor" />
-</p>
-
-<p><b>Mobile</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,kotlin,java" alt="Mobile Stack" />
-</p>
-
-<p><b>Tools & Cloud</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,azure,gcp,aws" alt="Tools" />
-</p>
-
-<p><b>Specialized technologies</b></p>
-
-- **AI agents & RAG:** LangGraph, LangChain, Agno, deepagents, LangSmith · OpenAI & Groq APIs · evidence-grounded RAG with OCR (PyMuPDF, Tesseract)
-- **ML in production:** scikit-learn + pandas (risk scoring), TensorFlow.js (in-browser inference), OpenCV, MediaPipe, Deepgram speech-to-text
-- **Offline-first PWAs:** Serwist, Dexie (IndexedDB), web-push
-- **Payments & business integrations:** Stripe, PayPal, WooCommerce, Contífico ERP, SRI e-invoicing (Ecuador)
-- **Web automation & scraping:** Playwright orchestration with caching layers
-- **UI engineering:** React Router, React Query, Zustand, shadcn/ui, Radix UI, Recharts
-- **Data visualization:** D3.js, Three.js, Power BI, Looker Studio
-- **Quality:** Playwright E2E, Vitest, GitHub Actions CI/CD, SonarLint
-- **Serverless:** Supabase Edge Functions (30+ in production projects)
-- **Cloud:** AWS, Azure, Google Cloud Run, Vercel, Render
-
-## Specialization Areas
-
-### 🤖 AI & Machine Learning
-Multi-agent systems (LangGraph, LangChain, Agno, deepagents) with OpenAI/Groq · evidence-grounded RAG with OCR (PyMuPDF, Tesseract) · LangSmith observability · speech-to-text (Deepgram) · fraud/risk scoring with scikit-learn · browser-based inference (TensorFlow.js) · real-time computer vision (OpenCV/MediaPipe).
-
-### 🌐 Full-Stack Web Development
-React 19 / Next.js 16 / TypeScript frontends · Node.js/NestJS/FastAPI backends · clean architecture & microservices · offline-first PWAs · PostgreSQL/Supabase with Prisma · auth (2FA/TOTP), payments and real-time features.
-
-### 📊 Data Visualization & BI
-Interactive dashboards (Power BI, Looker Studio), web analytics with D3.js/Three.js, custom enterprise reporting.
-
-### 📱 Mobile Development
-React Native cross-platform apps · native Android with Kotlin/Java · REST integration and app architecture.
-
-### 🏢 Enterprise & Freelance Solutions
-CRMs, ERP integrations, e-invoicing (Ecuador/SRI), PWAs for field use, cloud deployment on AWS/Azure/GCP — delivered end-to-end for real clients.
-
----
-
-<p align="center">
-  <em>🇪🇸 Ingeniero de software full-stack en Ecuador — disponible para empleo y proyectos freelance.</em><br/>
-  <strong>Thank you for visiting my profile.</strong> 🚀
-</p>
+> Selected work is presented at a high level. Confidential client and institutional implementations are intentionally not published.
