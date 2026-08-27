@@ -1,14 +1,8 @@
 # Carlos Chile
 
-### Software Engineering Student · Full-Stack Developer · Applied AI
-
-`C#` `ASP.NET Core` `SQL` `React` `Python` `FastAPI` `Docker` `Azure`
+**Software Engineering Student | Full-Stack Developer | Applied AI**
 
 I build reliable web applications and practical AI solutions for real-world workflows. My current focus is enterprise software development with C#/.NET, SQL databases, REST APIs, clean architecture, automated testing and cloud delivery.
-
-## What I build
-
-I enjoy turning complex workflows into clear, maintainable products: enterprise applications, REST APIs, data-driven dashboards and practical AI tools.
 
 ## Core expertise
 
@@ -22,67 +16,17 @@ I enjoy turning complex workflows into clear, maintainable products: enterprise 
 
 ## Featured public projects
 
-### 🎙️ ExposIA - AI presentation coach
-
-AI tool that converts presentation slides into a guided practice session and provides feedback on voice clarity, pronunciation, pacing and delivery.
-
-**Stack:** Python · FastAPI · React · audio analysis · Docker
-
-[View repository](https://github.com/CarlosJChileS/exposia)
-
-### 📈 Smart Fit Pulse - Explainable risk scoring
-
-Early-warning PWA that turns activity signals into transparent risk assessments and a prioritized intervention queue for trainers.
-
-**Stack:** React · TypeScript · Vite · Supabase/PostgreSQL · PWA · Playwright · Vitest
-
-[View repository](https://github.com/CarlosJChileS/smart-fit-pulse)
-
-### 👁️ AI or Real? - Computer vision quiz
-
-Multiplayer quiz controlled by real-time hand gestures detected through a webcam.
-
-**Stack:** Python · OpenCV · MediaPipe · computer vision · webcam processing
-
-[View repository](https://github.com/CarlosJChileS/ai-or-real-quiz)
-
-### ✅ TaskMate - REST application
-
-Task management application with relational persistence, containerized development and automated delivery.
-
-**Stack:** Node.js · Express · PostgreSQL · Docker Compose · Azure CI/CD
-
-[View repository](https://github.com/CarlosJChileS/taskmate)
-
-### 🧱 Clean Architecture Todo API
-
-REST API demonstrating separation of concerns and interchangeable data sources.
-
-**Stack:** TypeScript · REST · Prisma · TypeORM · Clean Architecture
-
-[View repository](https://github.com/CarlosJChileS/clean-architecture-todo-api)
-
-### 🎬 WatchHub - Streaming platform
-
-Streaming platform with secure authentication, subscriptions, analytics and end-to-end testing.
-
-**Stack:** React · TypeScript · Vite · Supabase · PayPal · Playwright · GitHub Actions
-
-[View repository](https://github.com/CarlosJChileS/watchhub-streaming)
+- **[ExposIA](https://github.com/CarlosJChileS/exposia)** - AI presentation coach using FastAPI, React, audio analysis and Docker.
+- **[Smart Fit Pulse](https://github.com/CarlosJChileS/smart-fit-pulse)** - Explainable risk-scoring PWA with prioritized alerts and Playwright E2E tests.
+- **[AI or Real?](https://github.com/CarlosJChileS/ai-or-real-quiz)** - Real-time computer-vision quiz using Python, OpenCV and MediaPipe.
+- **[TaskMate](https://github.com/CarlosJChileS/taskmate)** - REST application with Node.js, Express, PostgreSQL, Docker Compose and Azure CI/CD.
+- **[Clean Architecture Todo API](https://github.com/CarlosJChileS/clean-architecture-todo-api)** - REST API demonstrating clean architecture and interchangeable data sources.
+- **[WatchHub](https://github.com/CarlosJChileS/watchhub-streaming)** - Streaming platform with 2FA, subscriptions, analytics, E2E testing and GitHub Actions.
 
 ## Applied AI and hackathon work
 
-### 🏆 RastroSeguro - HackIAthon finalist
-
-Collaborative insurance-fraud prioritization platform focused on explainable scoring, Machine Learning, NLP, graph analysis, traceable evidence and human review.
-
-**Stack:** Python · FastAPI · React · NLP · Machine Learning · graph analysis · ChromaDB
-
-### 📄 AI tender analysis
-
-Document-intelligence prototype for extracting requirements and identifying compliance gaps in bidding documents.
-
-**Stack:** Python · FastAPI · NLP · embeddings · semantic search · Docker
+- **RastroSeguro** - HackIAthon finalist project focused on explainable insurance-fraud prioritization, Machine Learning, NLP, graph analysis and human review.
+- **AI tender analysis** - Document-intelligence prototype for extracting requirements and identifying compliance gaps in bidding documents.
 
 ## Professional interests
 
